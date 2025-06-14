@@ -1,8 +1,3 @@
-Certainly! Here's the same GitHub documentation rewritten in **English** using proper Markdown formatting:
-
----
-
-```markdown
 # STM32 Task Scheduler
 
 A lightweight task scheduler for STM32 microcontrollers written in C. This scheduler allows periodic task execution based on a tick timer with support for execution priorities.
@@ -83,9 +78,3 @@ MIT License
 ## Author
 
 This scheduler was developed as a minimal cooperative task scheduler for STM32 bare-metal applications, especially useful when not using an RTOS.
-
-```
-
----
-
-Let me know if you'd like me to generate a `README.md` file from this or if you'd like to expand it with diagrams or examples.
